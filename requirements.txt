@@ -1,0 +1,5 @@
+pytest==7.1.2
+flake8==4.0.1
+radon==5.1.0
+django
+psycopg2-binary
